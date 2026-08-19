@@ -1,5 +1,5 @@
 
-### CS & Linguistics @ UCLA
+### Linguistics & CS @ UCLA
 ----------------
 <small>👋 Hello! I'm Ananya, a freshman studying Linguistics and Computer Science at UCLA.<small>
 
