@@ -14,4 +14,4 @@
 
 ### 🌱 Interests
 -----------------
-- <small>AI, machine learning, software engineering, AI infrastructure, developer tools, computational linguistics, full-stack products, photography, and music production.<small>
+- <small>AI, machine learning, software engineering, AI infrastructure, developer tools, computational linguistics, full-stack products.<small>
