@@ -2,6 +2,7 @@
 
 💻 Tech
 Languages: Python, Java, C/C++, C#, TypeScript, JavaScript, HTML, CSS
+
 Tools: Git, GitHub
 
 🌱 Interests
