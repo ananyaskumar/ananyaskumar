@@ -1,9 +1,17 @@
-👋 Hello! I'm Ananya, a Linguistics and Computer Science major at UCLA.
 
-💻 Tech
-Languages: Python, Java, C/C++, C#, TypeScript, JavaScript, HTML, CSS
+### CS & Linguistics @ UCLA
+----------------
+<small>👋 Hello! I'm Ananya, a freshman studying Linguistics and Computer Science at UCLA.<small>
 
-Tools: Git, GitHub
+<small>💌 I build at the intersection of AI, software engineering, language, and human-centered technology.<small>
 
-🌱 Interests
-AI infrastructure, healthcare technology, mixed reality, developer tools, computational biology, full-stack products, photography, and music production.
+### 💻 Tech 
+-----------------
+
+- <small>**Languages**: Python, Java, C/C++, C#, TypeScript, JavaScript, HTML, CSS<small>
+
+- <small>**Tools**: Git, GitHub<small>
+
+### 🌱 Interests
+-----------------
+- <small>AI, machine learning, software engineering, AI infrastructure, developer tools, computational linguistics, full-stack products, photography, and music production.<small>
